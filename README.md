@@ -7,3 +7,4 @@
 <img src="BTD6 Title Page.jpg" alt="BTD6 Title Page" />
 </body>
 </html>
+![BTD6 Title Page](https://github.com/user-attachments/assets/bcbd4c69-2f25-45f0-a498-353b90e81773)
